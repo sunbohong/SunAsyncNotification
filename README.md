@@ -1,5 +1,5 @@
 # SunAsyncNotification
-异步通知框架
+一个优雅的异步通知框架。
 
 # Demo
 
